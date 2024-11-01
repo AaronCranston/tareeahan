@@ -1,1 +1,52 @@
-# tareeahan
+# Travel Webpage
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Derivado de "Proyecto: página web de viajes"</title>
+
+    </head>
+    <body>
+    <style>
+    body{
+        background-color:rgb(220, 222, 193);
+    }
+        #A{
+            color:blue;
+        }
+    }
+    
+     
+        
+        
+    </style>
+        <h1>Travel to Japan</h1>
+        
+        
+    </body>
+    <h2>Why Japan?</h2>
+    <p id="A"> Japan has one of the most beatiful landscapes,remarking between mount fuji and its urban scenes.</p>
+    <h4>What to see?</h4>
+    <ol>
+        <li>Sunsets</li>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/mountains-sunset.png">
+        <li>Fireworkss</li>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/seasonal/fireworks-over-harbor.png">
+        <h2>Its food...</h2>
+    You find various types of foods in Japan for example:
+    <ol>
+        <li>Sushi
+        </li>
+        <li>Ramen
+        </li>
+        <li>Teriyaki
+        </li>
+    </ol>
+    </ol>
+    <p>Also the people in Japan are super educated and are always very polite with you and will make you feel very 
+    <strong>special</strong> there.
+    
+    </p>
+    <h3>See you in Japan!</h3>
+    
+</html>
